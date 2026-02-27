@@ -1,4 +1,4 @@
-# ERPGo SaaS - Architecture Documentation
+# HairSense ERP - Architecture Documentation
 
 > **Investigation Date:** 2026-02-26
 > **Framework:** Laravel 12.0 (PHP 8.2+)
