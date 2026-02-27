@@ -1,7 +1,7 @@
 # Hairsense Phase 1 — Gap Analysis
 
 > **Date:** 2026-02-26
-> **Base System:** ERPGo SaaS (Laravel 12, MariaDB 11.4)
+> **Base System:** HairSense ERP (Laravel 12, MariaDB 11.4)
 > **Reference:** `ARCHITECTURE.md` in project root
 
 ---
